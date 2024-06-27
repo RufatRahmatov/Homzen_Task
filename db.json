@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "img": "https://themesflat.co/html/homzen/images/location/lo-sm-1.jpg",
+      "houseName": "Dallas",
+      "properties": "263",
+      "id": "a561"
+    },
+    {
+      "img": "https://themesflat.co/html/homzen/images/location/lo-sm-2.jpg",
+      "houseName": "Atlanta",
+      "properties": "265",
+      "id": "1ce4"
+    },
+    {
+      "img": "https://themesflat.co/html/homzen/images/location/lo-sm-3.jpg",
+      "houseName": "Orlanda",
+      "properties": "267",
+      "id": "fb58"
+    }
+  ]
+}
